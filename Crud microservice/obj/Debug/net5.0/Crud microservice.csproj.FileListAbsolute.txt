@@ -1,0 +1,61 @@
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Crud microservice.exe
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Crud microservice.deps.json
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Crud microservice.runtimeconfig.json
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Crud microservice.runtimeconfig.dev.json
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Crud microservice.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\ref\Crud microservice.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Crud microservice.pdb
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\Crud microservice.csprojAssemblyReference.cache
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\Crud microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\Crud microservice.AssemblyInfoInputs.cache
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\Crud microservice.AssemblyInfo.cs
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\Crud microservice.csproj.CoreCompileInputs.cache
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\Crud microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\Crud microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\staticwebassets\Crud microservice.StaticWebAssets.Manifest.cache
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\staticwebassets\Crud microservice.StaticWebAssets.xml
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\scopedcss\bundle\Crud microservice.styles.css
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\Crud microservice.RazorTargetAssemblyInfo.cache
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\Crud microservice.csproj.CopyComplete
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\Crud microservice.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\ref\Crud microservice.dll
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\Crud microservice.pdb
+C:\Users\Pavilion\source\repos\Crud microservice\Crud microservice\obj\Debug\net5.0\Crud microservice.genruntimeconfig.cache

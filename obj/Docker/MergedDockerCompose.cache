@@ -1,0 +1,16 @@
+services:
+  crudmicroservice:
+    build:
+      context: C:\Users\Pavilion\source\repos\Crud microservice
+      dockerfile: Crud microservice/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: crudmicroservice
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\Pavilion\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\Pavilion\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

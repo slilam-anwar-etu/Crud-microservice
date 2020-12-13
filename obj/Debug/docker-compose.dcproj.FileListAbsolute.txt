@@ -1,0 +1,18 @@
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\appsettings.Development.json
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\appsettings.json
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\Crud microservice.exe
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\Crud microservice.dll
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Pavilion\source\repos\Crud microservice\bin\Debug\Crud microservice.pdb
+C:\Users\Pavilion\source\repos\Crud microservice\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\Pavilion\source\repos\Crud microservice\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Pavilion\source\repos\Crud microservice\obj\Debug\docker-compose.dcproj.CopyComplete

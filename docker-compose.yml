@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  crudmicroservice:
+    image: ${DOCKER_REGISTRY-}crudmicroservice
+    build:
+      context: .
+      dockerfile: Crud microservice/Dockerfile
